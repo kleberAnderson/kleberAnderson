@@ -1,9 +1,13 @@
 # Anderson Velasco
+(Analista e desenvolvedor de Sistemas)
 
 **`Desenvolvedor em formação`**
 
-Meu nome é Anderson, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste. Estou sempre em busca de aprender e aperfeiçoar cada vez mais minhas habilidades
-
+ Sou estudante da área de Tecnologia em Análise e Desenvolvimento de Sistemas. Busco uma oportunidade de
+ estágio na área de desenvolvimento de software, onde eu possa aplicar meus conhecimentos e habilidades,
+ além de continuar evoluindo profissionalmente. Estou sempre disposto a aprender novas tecnologias, crescer
+ na área e contribuir com soluções para a equipe.
+ 
 <p align="left">
     <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
         <img 
@@ -36,19 +40,11 @@ Meu nome é Anderson, tenho 21 anos. Atualmente, estou cursando Análise e Desen
 />
 <img 
     align="left" 
-    alt="Eclipse" 
+    alt="COBOL" 
     title="Eclipse IDE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NetBeans" 
-    title="Apache NetBeans IDE"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" 
 />
 <br/>
 <br/>
