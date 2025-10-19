@@ -1,47 +1,52 @@
-<div align="center">
-  <h1>Anderson Velasco</h1>
-  </div>
+# Anderson Velasco
+(Analista e desenvolvedor de Sistemas)
 
----
+**`Desenvolvedor em formação`**
 
-## 🎯 Sobre Mim
-
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, focado em construir uma carreira sólida como Desenvolvedor de Software. 
-
-Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e continuar meu desenvolvimento profissional. Sou proativo, adaptável e estou sempre disposto a aprender novas tecnologias para agregar valor à equipe.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
-    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ Sou estudante da área de Tecnologia em Análise e Desenvolvimento de Sistemas. Busco uma oportunidade de
+ estágio na área de desenvolvimento de software, onde eu possa aplicar meus conhecimentos e habilidades,
+ além de continuar evoluindo profissionalmente. Estou sempre disposto a aprender novas tecnologias, crescer
+ na área e contribuir com soluções para a equipe.
+ 
+<p align="left">
+    <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Visitar" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
-<br>
-
-<div align="center">
-  
-  ### Minha Stack
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
-  <img src="https://img.shields.io/badge/COBOL-192C5E?style=for-the-badge&logo=cobol&logoColor=white" alt="COBOL Badge">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  
-</div>
 
 ---
 
-## 💻 Habilidades e Tecnologias
-
-Aqui estão as principais áreas e ferramentas com as quais trabalho e estudo atualmente:
-
-* **Linguagens de Programação:** Java, Python, COBOL.
-* **Banco de Dados:** Atualmente focado no aprendizado e prática com **SQL Server**.
-* **Ambiente de Desenvolvimento (IDE):** Eclipse IDE.
-* **Status:** Sólido conhecimento em formação contínua na área de Análise e Desenvolvimento de Sistemas.
-
-<br>
+### Linguagens e Ferramentas
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="COBOL" 
+    title="Eclipse IDE"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" 
+/>
+<br/>
+<br/>
 
 ---
-
-**<div align="center">"Sempre em busca de conhecimento e novas experiências."</div>**
