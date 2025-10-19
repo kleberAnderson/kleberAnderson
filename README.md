@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Anderson-Velasco/Anderson-Velasco/assets/154780512/03522f28-a477-4402-a1f9-f7b8893796d8" alt="Anderson Velasco" width="150" style="border-radius: 50%;">
   <h1>Anderson Velasco</h1>
   <h3>Analista e Desenvolvedor de Sistemas em Formação</h3>
 </div>
@@ -27,8 +26,7 @@ Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir m
   <img alt="Java" title="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 10px;">
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 10px;">
   <img alt="COBOL" title="COBOL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" style="margin: 10px;">
-  <img alt="SQL Server" title="SQL Server (Em estudo)" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin: 10px;">
-  <img alt="Eclipse IDE" title="Eclipse IDE" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="margin: 10px;">
+  <img alt="SQL Developer" title="SQL Server (Em estudo)" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="margin: 10px;">
   
 </div>
 
