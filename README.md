@@ -1,52 +1,21 @@
-# Anderson Velasco
-(Analista e desenvolvedor de Sistemas)
+## 🎯 Professional Profile
 
-**`Desenvolvedor em formação`**
-
- Sou estudante da área de Tecnologia em Análise e Desenvolvimento de Sistemas. Busco uma oportunidade de
- estágio na área de desenvolvimento de software, onde eu possa aplicar meus conhecimentos e habilidades,
- além de continuar evoluindo profissionalmente. Estou sempre disposto a aprender novas tecnologias, crescer
- na área e contribuir com soluções para a equipe.
- 
-<p align="left">
-    <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Visitar" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
+Hello! I am a student in **Analysis and Systems Development Technology** and a technology enthusiast. I seek continuous professional growth, am always eager to learn new technologies, and am willing to contribute solutions to the team.
 
 ---
 
-### Linguagens e Ferramentas
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="COBOL" 
-    title="Eclipse IDE"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" 
-/>
-<br/>
-<br/>
+## 📊 Statistics and Technical Stack
 
----
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleberAnderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberAnderson&layout=compact&langs_count=6&theme=dark" alt="Most Used Languages">
+  
+</div>
+
+<br>
+
+**Stack Details:**
+* **Main Languages:** Java and Python.
+* **Database:** Active practice with **SQL Server** and TSQL.
