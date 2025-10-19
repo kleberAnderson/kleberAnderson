@@ -1,13 +1,6 @@
 <div align="center">
   <h1>Anderson Velasco</h1>
-  <h3>Analista e Desenvolvedor de Sistemas em Formação</h3>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
-    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+  </div>
 
 ---
 
@@ -16,6 +9,12 @@
 Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, focado em construir uma carreira sólida como Desenvolvedor de Software. 
 
 Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e continuar meu desenvolvimento profissional. Sou proativo, adaptável e estou sempre disposto a aprender novas tecnologias para agregar valor à equipe.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-velasco-014544359/" target="_blank">
+    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <br>
 
