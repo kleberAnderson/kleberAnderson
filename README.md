@@ -18,18 +18,6 @@ Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, focad
 
 Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e continuar meu desenvolvimento profissional. Sou proativo, adaptável e estou sempre disposto a aprender novas tecnologias para agregar valor à equipe.
 
----
-
-## 💻 Habilidades e Tecnologias
-
-Aqui estão algumas das tecnologias com as quais trabalho e estudo atualmente:
-
-| Categoria | Linguagens/Ferramentas | Status |
-| :--- | :--- | :--- |
-| **Linguagens Core** | Java, Python, COBOL | Sólido em formação |
-| **Banco de Dados** | **Aprendendo SQL Server** | Em Estudo |
-| **IDE's** | Eclipse IDE | Uso diário |
-
 <br>
 
 <div align="center">
@@ -43,6 +31,19 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo atualmente:
   <img alt="Eclipse IDE" title="Eclipse IDE" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="margin: 10px;">
   
 </div>
+
+---
+
+## 💻 Habilidades e Tecnologias
+
+Aqui estão as principais áreas e ferramentas com as quais trabalho e estudo atualmente:
+
+* **Linguagens de Programação:** Java, Python, COBOL.
+* **Banco de Dados:** Atualmente focado no aprendizado e prática com **SQL Server**.
+* **Ambiente de Desenvolvimento (IDE):** Eclipse IDE.
+* **Status:** Sólido conhecimento em formação contínua na área de Análise e Desenvolvimento de Sistemas.
+
+<br>
 
 ---
 
