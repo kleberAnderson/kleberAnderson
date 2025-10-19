@@ -23,12 +23,10 @@ Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir m
   
   ### Minha Stack
   
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
   <img src="https://img.shields.io/badge/COBOL-192C5E?style=for-the-badge&logo=cobol&logoColor=white" alt="COBOL Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-F7DB00?style=for-the-badge&logo=power%20bi&logoColor=white" alt="Power BI Badge">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
   
 </div>
 
@@ -39,8 +37,7 @@ Busco ativamente uma oportunidade de estágio onde eu possa aplicar e expandir m
 Aqui estão as principais áreas e ferramentas com as quais trabalho e estudo atualmente:
 
 * **Linguagens de Programação:** Java, Python, COBOL.
-* **Banco de Dados:** Atualmente focado no aprendizado e prática com **SQL Server** e conhecimentos em SQL genérico.
-* **Análise de Dados/BI:** Power BI, Jupyter.
+* **Banco de Dados:** Atualmente focado no aprendizado e prática com **SQL Server**.
 * **Ambiente de Desenvolvimento (IDE):** Eclipse IDE.
 * **Status:** Sólido conhecimento em formação contínua na área de Análise e Desenvolvimento de Sistemas.
 
