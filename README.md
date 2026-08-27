@@ -5,7 +5,7 @@ Atualmente, busco oportunidades na área de desenvolvimento, especialmente no ec
 ---
 ## 💻 Principais tecnologias e ferramentas 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,linux,vscode,eclipse,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,linux,docker,vscode,eclipse,idea" />
 </div> 
 <br> 
 
@@ -19,9 +19,9 @@ Atualmente, busco oportunidades na área de desenvolvimento, especialmente no ec
 - SQL Server
 - MySQL
 ## 🛠️ Ferramentas
-- Git
-- GitHub
+- Git & GitHub
 - Linux
+- Docker
 - Visual Studio Code
 - Eclipse IDE
 - IntelliJ IDEA
@@ -34,6 +34,10 @@ Atualmente, busco oportunidades na área de desenvolvimento, especialmente no ec
 - Estrutura de Dados
 - Engenharia de Software
 ---
+## 📖 Em Aprendizado / Expansão Técnica
+- **Redes de Computadores:** Fundamentos de redes, protocolos (TCP/IP, HTTP/HTTPS, DNS), roteamento e virtualização de ambientes.
+- **Segurança da Informação:** Boas práticas de segurança em APIs, autenticação/autorização, princípios de segurança defensiva e gestão de acessos.
+- **Containers & Infraestrutura:** Orquestração básica e conteinerização com Docker em ambientes Linux.
 ## 📫 Contato
 - 💼 LinkedIn: www.linkedin.com/in/andersonvelasco
 - 💻 GitHub: https://github.com/kleberAnderson
